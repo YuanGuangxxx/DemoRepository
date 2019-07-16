@@ -1,0 +1,4 @@
+:git brach name
+to create new brach
+:git checkout brach_name
+to change your branch
