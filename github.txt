@@ -4,3 +4,4 @@ first used!
 (git bash in path myRepository)
 myRepository master to github origin master
 keys 
+sssssssssssssss
