@@ -1,0 +1,5 @@
+github !
+first used!
+:git push origin master
+(git bash in path myRepository)
+myRepository master to github origin master
